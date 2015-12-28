@@ -1,0 +1,28 @@
+name: brad
+favicon: null
+layout_spectrum: 0.2883786524180323
+typography_spectrum: 0.6041738896165043
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.11085310485213995
+  lightness: 0.5449231313541532
+  saturation: 0.388326806249097
+  rhythmicContrast: 0.9401602821890265
+purpose: []
